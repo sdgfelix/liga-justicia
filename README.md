@@ -9,7 +9,6 @@ Pueden hacer lo que quieran...
 
 ### ACTUALIZADO DESDE GITHUB: Este texto ha sido introducido desde la plataforma GitHub
 
-## Nuevos cambios
+## Nuevos cambios que drán conflico 1
 
-Cambios locales
 
