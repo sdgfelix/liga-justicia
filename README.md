@@ -8,3 +8,8 @@ Pueden hacer lo que quieran...
 
 
 ### ACTUALIZADO DESDE GITHUB: Este texto ha sido introducido desde la plataforma GitHub
+
+## Nuevos cambios
+
+Cambios locales
+
